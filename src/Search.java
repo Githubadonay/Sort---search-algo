@@ -41,7 +41,6 @@ public class Search {
                 return new SearchReturn("Binary Search", comparisons, endTime, elements, floor);
             }
         }
-        
 
         endTime = System.nanoTime() - startTime; // capture final processing time
 

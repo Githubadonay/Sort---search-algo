@@ -16,10 +16,10 @@ public class SearchReturn {
 
     public String toString() {
         return this.description + ":\n" +
-               "Elements: " + this.elements + "\n" +
-               "Comparisons: " + this.comparisons + "\n" +
-               "Index: " + this.index + "\n" +
-               "Time: " + this.time + "\n";
-    }    
+                "Elements: " + this.elements + "\n" +
+                "Comparisons: " + this.comparisons + "\n" +
+                "Index: " + this.index + "\n" +
+                "Time: " + this.time + "\n";
+    }
 
 }
