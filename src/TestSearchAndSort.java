@@ -76,12 +76,12 @@ public class TestSearchAndSort {
     }
 
     // this method will display the array contents if you want to view them
-    private static void displayArray(int[] testData) {
+   /*  private static void displayArray(int[] testData) {
         for (int theInt : testData) {
             System.out.print(theInt + ",");
         }
         System.out.println();
-    }
+    }*/
 
     public static int[] createArray(int size) {
         int[] testData = new int[size];
